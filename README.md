@@ -1,7 +1,7 @@
 <!-- [![MasterHead]() -->
 <h1 align="center">Hi 👋, I'm Hrushi</h1>
 <h3 align="center">I'm developer based in Pune, India. I create visually pleasing and creative interfaces for the web.</h3>
-<img align="right" alt="coding" width="375" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alt="coding" width="450" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrushiborhade&label=Profile%20views&color=0e75b6&style=flat" alt="hrushiborhade" /> </p>
 
 <p align="left"> <a href="https://twitter.com/borhadehrushi" target="blank"><img src="https://img.shields.io/twitter/follow/borhadehrushi?logo=twitter&style=for-the-badge" alt="borhadehrushi" /></a> </p>
