@@ -1,4 +1,4 @@
-<!-- [![MasterHead]() -->
+ [![MasterHead](https://ibb.co/SKSTbCF)
 <h1 align="center">Hi 👋, I'm Hrushi</h1>
 <h3 align="center">I'm developer based in Pune, India. I create visually pleasing and creative interfaces for the web.</h3>
 <img align="right" alt="coding" width="450" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
