@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/borhadehrushi" target="blank"><img src="https://img.shields.io/twitter/follow/borhadehrushi?logo=twitter&style=for-the-badge" alt="borhadehrushi" /></a> </p>
 
-- 🔭 I’m currently working on **RedditXe**
+- 🔭 I’m currently working on **RedditX**
 
 - 🌱 I’m currently learning *Machine learning  **
 
