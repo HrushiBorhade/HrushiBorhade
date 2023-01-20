@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **RedditX**
 
-- 🌱 I’m currently learning *Machine learning  **
+- 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **React*
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **hrushiborhade123@gmail.com**
 
