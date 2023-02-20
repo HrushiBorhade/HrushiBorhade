@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="450" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrushiborhade&label=Profile%20views&color=0e75b6&style=flat" alt="hrushiborhade" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/hrushikesh-borhade-9b742b1bb/" target="blank"><img src="https://img.shields.io/linkedin" alt="Hrushikesh Borhade" /></a> </p>
+<p align="left"> <a href="https://twitter.com/borhadehrushi" target="blank"><img src="https://img.shields.io/twitter/follow/borhadehrushi?logo=twitter&style=for-the-badge" alt="borhadehrushi" /></a> </p>
 
 - 🔭 I’m currently working on **iMessageX**
 
