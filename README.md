@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/borhadehrushi" target="blank"><img src="https://img.shields.io/twitter/follow/borhadehrushi?logo=twitter&style=for-the-badge" alt="borhadehrushi" /></a> </p>
 
-- 🔭 I’m currently working on **AskDoc AI**
+- 🛠️ I’m building **AskDoc AI**
 
 - 🌱 I’m currently learning **Spring**
 
