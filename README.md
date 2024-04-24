@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/borhadehrushi" target="blank"><img src="https://img.shields.io/twitter/follow/borhadehrushi?logo=twitter&style=for-the-badge" alt="borhadehrushi" /></a> </p>
 
-- 🛠️ I’m building **AskDoc AI**
+- 🛠️ I’m building **@Figr**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Figma Plugin & Widget API**
 
-- 💬 Ask me about **NextJS**
+- 💬 Ask me about **building software products**
 
 - 📫 How to reach me **hrushiborhade123@gmail.com**
 
