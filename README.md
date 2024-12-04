@@ -6,10 +6,6 @@
 
 - 🛠️ I’m building **@Figr**
 
-- 🌱 I’m currently learning **Figma Plugin & Widget API**
-
-- 💬 Ask me about **building software products**
-
 - 📫 How to reach me **hrushiborhade123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
